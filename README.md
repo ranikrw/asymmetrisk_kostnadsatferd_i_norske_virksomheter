@@ -19,5 +19,5 @@ Koden i denne filen gjennomfører analysene. Resultatene og oversikt over dataut
 Denne filen inneholder funksjoner som blir benyttet av koden i 'analysere.py'.
 
 <br/><br/>
-**Permanent lenke til innholdet i dette depotet:** 
+**Permanent lenke til innholdet i dette depotet:** https://asymmetrisk-2024.ranik.no/
 
