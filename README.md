@@ -2,7 +2,7 @@
 
 Dette depotet inneholder all koden som er nødvendig for å utføre analysene og generere resultatene som er detaljert i følgende artikkel:
 
-Berg, Terje og Wahlstrøm, Ranik Raaen (2024). Asymmetrisk kostnadsatferd i norske virksomheter
+Berg, Terje og Wahlstrøm, Ranik Raaen (2024). Asymmetrisk kostnadsatferd i norske virksomheter. Tilgjengelig på SSRN: https://ssrn.com/abstract=4771410 eller http://dx.doi.org/10.2139/ssrn.4771410
 
 ## Data
 Data er beskrevet i følgende notat:
